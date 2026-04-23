@@ -2,7 +2,7 @@
 
 ## Senior Frontend Engineer · React · TypeScript · AI-Integrated Development
 
-Hi, I'm David — a senior frontend engineer with 5+ years building scalable web applications. 
+Hi, I'm David, a senior frontend engineer with 5+ years building scalable web applications. 
 I was the first web engineer hired at FrontRo, where I architected and scaled the platform 
 to 8M+ users, shipping features like video playback, live streaming, real-time chat, and 
 media upload pipelines. I own projects end-to-end and integrate AI tooling into my workflow daily.
