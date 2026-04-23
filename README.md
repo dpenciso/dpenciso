@@ -1,9 +1,14 @@
 # David Enciso
 
-## A lifetime learner
+## Senior Frontend Engineer · React · TypeScript · AI-Integrated Development
 
-![image of david and his family](family-photo.png)
+Hi, I'm David — a senior frontend engineer with 5+ years building scalable web applications. 
+I was the first web engineer hired at FrontRo, where I architected and scaled the platform 
+to 8M+ users, shipping features like video playback, live streaming, real-time chat, and 
+media upload pipelines. I own projects end-to-end and integrate AI tooling into my workflow daily.
 
-Hi, my name is David Enciso and I am a senior studying Web Development at Utah Valley University. I began coding two years ago afer dabbling in both neuroscience and psychology for a couple of years at Brigham Young University. I have found coding to not only be educational, but fun as I can find solutions to problems I thought were not possible for me to solve prior to knowing code.
-
-[Here is my online portfolio](https://www.davidenciso.com/)
+- 🔧 **Stack:** React, TypeScript, GraphQL, Tailwind, Radix UI, Node.js
+- 🎥 **Specialties:** Multimedia systems, real-time features (Ably WebSockets), performance optimization
+- 🤖 **AI-integrated:** Daily use of Claude, Cursor for accelerated development
+- 🌎 **Languages:** English (Native), Spanish (Native), Portuguese (Proficient)
+- 📍 Utah · Open to Relocation
