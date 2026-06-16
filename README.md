@@ -11,4 +11,4 @@ media upload pipelines. I own projects end-to-end and integrate AI tooling into 
 - 🎥 **Specialties:** Multimedia systems, real-time features (Ably WebSockets), performance optimization
 - 🤖 **AI-integrated:** Daily use of Claude, Cursor for accelerated development
 - 🌎 **Languages:** English (Native), Spanish (Native), Portuguese (Proficient)
-- 📍 Utah · Open to Relocation
+- 📍 Utah
